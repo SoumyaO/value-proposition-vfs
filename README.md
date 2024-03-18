@@ -1,5 +1,5 @@
 # Strategic Business Analytics Consulting Report: Addressing VFS Global's Key Challenges
-[Report](https://github.com/SoumyaO/value-proposition-vfs/blob/main/OgotiSoumyaSMM640.pdf)
+[Report](https://github.com/SoumyaO/value-proposition-vfs/blob/main/Report.pdf)
 
 ## Executive Summary:
 In this consulting report, strategic data analytics techniques were employed to address VFS Global's critical challenges. The analysis began with mapping out the organization's business model through a Value Proposition Canvas, gaining insights into key partners, activities, resources, and customer relationships, customer segments, communication channels, revenue streams. The value proposition i.e. identifying products and services to be positioned around what the customer needs and values was framed. 
